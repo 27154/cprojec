@@ -3,4 +3,5 @@ project(cprojec C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(cprojec wordie.c)
+add_executable(cprojec wordie.c
+bunit.c)
