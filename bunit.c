@@ -7,7 +7,7 @@
 
 #define SIZE 10
 
-int matrix() {
+int main () {
     int matriz [SIZE][SIZE];
     int numero, i, j;
 
@@ -38,6 +38,5 @@ int matrix() {
     return 0;
 }
 
-
-
+//Fahrenheit Demonstration -- Cprogramming book
 
