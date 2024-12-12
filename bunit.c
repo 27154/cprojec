@@ -37,6 +37,3 @@ int main () {
     }
     return 0;
 }
-
-//Fahrenheit Demonstration -- Cprogramming book
-
